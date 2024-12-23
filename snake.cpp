@@ -5,7 +5,7 @@ using namespace std ;
 
 
 #define MAX_LENGTH 1000
-//Directions
+
 
 const char DIR_UP = 'U';
 const char DIR_DOWN = 'D';
