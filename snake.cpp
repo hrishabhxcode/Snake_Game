@@ -251,6 +251,7 @@ int main(){
 
     cout<<"Snake Ate Itself ! GAME OVER"<<endl;
     cout<<"Final Score is : "<<board->getScore();
+    cout<<"Made by Hrishabh under the project Name TheQuarkX"<<endl;
     return 0 ;
 }
 
